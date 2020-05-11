@@ -1,6 +1,3 @@
 <?php
 
-echo "Asdasd";
-
-
-echo "sdasdasd";
+echo "this is marlex";
